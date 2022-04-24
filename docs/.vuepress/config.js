@@ -2,7 +2,8 @@ module.exports = {
     title: '个人笔记',
     description: '随便描述一下吧',
     themeConfig: {
-        logo: '/assets/img/logo.png',
+        base:'/mynote/',
+        logo: '/img/logo.png',
         nav: [
             {text: 'Home', link: '/'},
             {text: 'Js', link: '/js/'},
