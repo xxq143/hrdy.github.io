@@ -2,7 +2,6 @@ module.exports = {
     title: 'note',
     description: '随便描述一下吧',
     themeConfig: {
-        base: '/hrdy/',
         logo: '/img/logo.png',
         nav: [
             { text: 'Home', link: '/' },
